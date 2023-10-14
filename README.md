@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-fsf
 =======
 # AirBnB clone
 ![00-featured-airbnb-pink-logomark](https://github.com/WhoTheZ/AirBnB_clone/assets/125459606/61cd05a2-21fe-4f67-bdfe-c47de94f7e32)
