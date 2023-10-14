@@ -58,4 +58,3 @@ Usage: update <class_name> <id> <attribute_name> '<attribute_value>'
 # Authors
 ### Faical Houdzi
 ### Hamza Badra
->>>>>>> f93cfbe9fd534d606ef4c5e6387d37cd25e97272
